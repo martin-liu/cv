@@ -6,5 +6,7 @@ import sitemap from "@astrojs/sitemap";
 
 // https://astro.build/config
 export default defineConfig({
-  integrations: [tailwind(), compress(), sitemap()]
+  integrations: [tailwind(), compress(), sitemap()],
+  site: 'https://martin-liu.github.io',
+  base: '/cv'
 });

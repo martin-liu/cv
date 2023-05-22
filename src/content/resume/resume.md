@@ -25,7 +25,7 @@ Tech Leader @ Lyft Machine Learning Platform, owns core ML infrastructures.
   Supporting hundred of millions ML predictions per day, see our [blog](https://eng.lyft.com/powering-millions-of-real-time-decisions-with-lyftlearn-serving-9bb1f73318dc).
 * Model CI/CD
 
-  Model validation, Automatic Retraining, Model Shadowing and Metric Comparison, Experimentation integration. 
+  Model validation, Automatic Retraining, Model Shadowing and Metric Comparison. 
 * Realtime ML
 
   End to end lifecycle of Realtime ML: Realtime Features, Online Learning, Events driven decisions.
@@ -73,3 +73,5 @@ JAVA EE, [liferay portal](https://github.com/liferay/liferay-portal). Developed 
 # Education
 ## Taiyuan University of Technology <small>2006 - 2010</small>
 B.S. SOFTWARE ENGINEERING
+
+<br/>

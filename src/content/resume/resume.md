@@ -20,23 +20,27 @@ Focused and curious software engineer with 13+ years of experience in Data & ML 
 #### STAFF ENGINEER
 
 Tech Leader @ Lyft Machine Learning Platform, owns core ML infrastructures.
+
 * Model Serving
 
-  Supporting hundred of millions ML predictions per day, see our [blog](https://eng.lyft.com/powering-millions-of-real-time-decisions-with-lyftlearn-serving-9bb1f73318dc).
+  Supporting hundred of millions ML predictions per day, see more info in this [blog](https://eng.lyft.com/powering-millions-of-real-time-decisions-with-lyftlearn-serving-9bb1f73318dc).
 * Model CI/CD
 
   Model validation, Automatic Retraining, Model Shadowing and Metric Comparison. 
 * Realtime ML
 
-  End to end lifecycle of Realtime ML: Realtime Features, Online Learning, Events driven decisions.
+  End to end lifecycle of Realtime ML: Realtime Features, Online Learning, Events driven decisions. See more info in this [blog](https://eng.lyft.com/building-real-time-machine-learning-foundations-at-lyft-6dd99b385a4e).
 * Reinforcement Learning
 
-  Bandits -> Contextual Bandits -> Full RL. Powering Contextual Pricing which delivers $100M+ Post-Marketing Margin per year.
+  Bandits -> Contextual Bandits -> Full RL. Powering some use cases which delivers $100M+ Post-Marketing Margin per year.
+  
+
+See some of other work in https://eng.lyft.com/tagged/machine-learning
 
 ## eBay inc. <small>2012 - 2021</small>
 #### MTS2 STAFF ENGINEER
 
-Tech Leader in eBay's Data Service and Solutions org and AI Platform org.
+Tech Leader @ AI Platform.
 
 * ML Feature Platform
 

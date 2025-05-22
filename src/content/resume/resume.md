@@ -1,5 +1,5 @@
 # Me
-13+ years of experience designing and scaling large-scale Data and AI/ML systems. Expertise in bridging technical innovation with business needs to create scalable, enterprise-grade AI solutions. Now focus on Generative AI systems that automate complex, time-intensive tasks.
+15+ years of experience designing and scaling large-scale ML and distributed systems. Expertise in bridging technical innovation with business needs to create scalable, enterprise-grade AI solutions. Now focus on Agentic AI systems that automate complex, time-intensive tasks.
 
 ### Links
 
